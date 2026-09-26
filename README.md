@@ -1,3 +1,5 @@
+**Note: The frontend UI is currently undergoing a responsive redesign, but the FastAPI backend and database architecture are fully deployed.**
+
 # Lumina Cloud LMS 🚀
 
 A modern, cloud-native Learning Management System designed to streamline assignment workflows, secure file submissions, and assist educators with AI-generated grading feedback.
