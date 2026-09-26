@@ -10,7 +10,7 @@ app = FastAPI(
 )
 
 origins = [
-    "https://lumina-backend-m5b4.onrender.com/api",
+    "*",
 ]
 
 app.add_middleware(
